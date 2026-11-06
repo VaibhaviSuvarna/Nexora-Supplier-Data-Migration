@@ -1,0 +1,14 @@
+supplier_id,supplier_name,email,phone,gst_number,city,status
+1,ABC Technologies ,abc@example.com,9876543210,27ABCDE1234F1Z5,PUNE,active
+2,Global IT Solutions,global@example.com,+91-9876543211,27BCDEF2345G1Z6,Mumbai,ACTIVE
+3,TechWorld India,tech@example.com,98765 43212,29CDEFG3456H1Z7,Bengaluru,Active
+4,OfficePro,office@example.com,9876543213,27DEFGH4567J1Z8,Pune,active
+5,NetConnect,net@example.com,98765-43214,27EFGHI5678K1Z9,MUMBAI,ACTIVE
+6,Digital Systems,digital@example.com,+91 9876543215,29FGHIJ6789L1Z0,Bangalore,Active
+7,Smart Devices,,9876543216,27GHIJK7890M1Z1,Pune,ACTIVE
+8,Prime Supplies,prime@example.com,9876543217,27HIJKL8901N1Z2,Mumbai,Inactive
+9,ABC Technologies,abc@example.com,+91 9876543210,27ABCDE1234F1Z5,Pune,Active
+10,abc technologies,abc@example.com,98765 43210,27ABCDE1234F1Z5,pune,ACTIVE
+11,CloudServe Solutions,cloud@cloudserve.com,9876543299,27CLOUD1234X1Z5,Pune,Active
+12,Net Connect,net@example.com,9876543214,27EFGHI5678K1Z9,Mumbai,Active
+13,NextGen Solutions,nextgen@solutions.com,9876543288,27NEXT1234P1Z5,Pune,Active
